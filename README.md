@@ -7,6 +7,7 @@ Vi ønsker innspill fra alle interesserte.
 
 ### Planlagte meetups
  - [Mars 2014](https://github.com/BartJS/meetups/issues/2)
+    - Applikasjonsarkitektur v/[@rinojohnsen](https://twitter.com/rinojohnsen) [code](https://github.com/rinoandrejohnsen/Shakei)
 
 ### Avholdte meetups
  - [Februar 2014](https://github.com/BartJS/meetups/issues/1)
