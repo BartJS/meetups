@@ -9,7 +9,7 @@ Vi ønsker innspill fra alle interesserte.
  - [April 2014](https://github.com/BartJS/meetups/issues/3)
     - wat, explained v/[Péter Gombos](https://github.com/peterhgombos)
     - ???
-    - ES6: ???
+    - ES6: Generators v/[Torgeir Thoresen](https://github.com/torgeir)
 
 ### Avholdte meetups
  - [Mars 2014](https://github.com/BartJS/meetups/issues/2) 
