@@ -6,10 +6,13 @@ Bruker Github issues for planlegging av meetups. Et issue per meetup.
 Vi ønsker innspill fra alle interesserte.
 
 ### Planlagte meetups
+ - [Mai 2014](https://github.com/BartJS/meetups/issues/6)
+    - ES6: Generators v/[Torgeir Thoresen](https://github.com/torgeir)
+ 
  - [April 2014](https://github.com/BartJS/meetups/issues/3)
     - wat, explained v/[Péter Gombos](https://github.com/peterhgombos)
-    - ???
-    - ES6: Generators v/[Torgeir Thoresen](https://github.com/torgeir)
+    - WebSockets and Server-Sent Events v/[Kim Joar Bekkelund](https://github.com/kjbekkelund)
+    - ES6: ???
 
 ### Avholdte meetups
  - [Mars 2014](https://github.com/BartJS/meetups/issues/2) 
