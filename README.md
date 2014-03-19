@@ -11,7 +11,7 @@ Vi ønsker innspill fra alle interesserte.
  
  - [April 2014](https://github.com/BartJS/meetups/issues/3)
     - wat, explained v/[Péter Gombos](https://github.com/peterhgombos)
-    - WebSockets and Server-Sent Events v/[Kim Joar Bekkelund](https://github.com/kjbekkelund)
+    - WebSockets v/[Kim Joar Bekkelund](https://github.com/kjbekkelund)
     - ES6: ???
 
 ### Avholdte meetups
