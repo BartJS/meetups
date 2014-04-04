@@ -9,12 +9,13 @@ Vi ønsker innspill fra alle interesserte.
  - [Mai 2014](https://github.com/BartJS/meetups/issues/6)
     - ES6: Generators v/[Torgeir Thoresen](https://github.com/torgeir)
  
- - [April 2014](https://github.com/BartJS/meetups/issues/3)
-    - wat, explained v/[Péter Gombos](https://github.com/peterhgombos)
-    - WebSockets v/[Kim Joar Bekkelund](https://github.com/kjbekkelund)
-    - ES6: ???
 
 ### Avholdte meetups
+ - [April 2014](https://github.com/BartJS/meetups/issues/3)
+    - wat, explained v/[Péter Gombos](https://github.com/peterhgombos)
+    - WebSockets v/[Kim Joar Bekkelund](https://github.com/kjbekkelund) - [[slides](https://speakerdeck.com/kimjoar/websockets-and-server-sent-events)]  
+    - ES6: Destructuring v/[Mikael Brevik](https://github.com/mikaelbr) - [[slides](http://git.mikaelb.net/presentations/bartjs/destructuring/)]  [[code](https://gist.github.com/mikaelbr/9900818)]
+
  - [Mars 2014](https://github.com/BartJS/meetups/issues/2) 
     - Applikasjonsarkitektur v/[@rinojohnsen](https://twitter.com/rinojohnsen) -  [[code](https://github.com/rinoandrejohnsen/Shakei)]
     - Kartbiblioteker v/[@emilmork](https://twitter.com/3milm) -  [[slides](http://emilmork.github.io/presentations/leafletvsopenlayers/)] [[code](https://github.com/emilmork/leafletvsopenlayers)]
