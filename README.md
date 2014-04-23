@@ -8,6 +8,7 @@ Vi ønsker innspill fra alle interesserte.
 ### Planlagte meetups
  - [Mai 2014](https://github.com/BartJS/meetups/issues/6)
     - ES6: Generators v/[Torgeir Thoresen](https://github.com/torgeir)
+    - Making math come alive with JavaScript v/[Stian Møllersen](https://github.com/mollerse)
  
 
 ### Avholdte meetups
