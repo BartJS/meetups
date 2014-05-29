@@ -14,7 +14,7 @@ Vi ønsker innspill fra alle interesserte.
 
  - [Mai 2014](https://github.com/BartJS/meetups/issues/6)
     - ES6: Generators v/[Torgeir Thoresen](https://github.com/torgeir)  - [[slides](http://torgeir.github.io/generators-talk/)]  [[code](https://github.com/torgeir/generators-talk)]
-    - Making math come alive with JavaScript v/[Stian Møllersen](https://github.com/mollerse)
+    - Making math come alive with JavaScript v/[Stian Møllersen](https://github.com/mollerse) - [[slides](http://mollerse.github.io/sjs14/)]
 
  - [April 2014](https://github.com/BartJS/meetups/issues/3)
     - wat, explained v/[Péter Gombos](https://github.com/peterhgombos)
