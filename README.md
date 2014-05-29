@@ -9,6 +9,9 @@ Vi ønsker innspill fra alle interesserte.
  - Kom med forslag på [issues](https://github.com/BartJS/meetups/issues/)!
 
 ### Avholdte meetups
+ - [Nodeschool, May 25th](https://github.com/BartJS/meetups/issues/7)
+    - Workshop: [Nodeschool.io](http://nodeschool.io) with [Max Ogden](https://github.com/maxogden) and [Jessica Lord](https://github.com/jlord)
+
  - [Mai 2014](https://github.com/BartJS/meetups/issues/6)
     - ES6: Generators v/[Torgeir Thoresen](https://github.com/torgeir)  - [[slides](http://torgeir.github.io/generators-talk/)]  [[code](https://github.com/torgeir/generators-talk)]
     - Making math come alive with JavaScript v/[Stian Møllersen](https://github.com/mollerse)
