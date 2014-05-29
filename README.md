@@ -6,7 +6,7 @@ Bruker Github issues for planlegging av meetups. Et issue per meetup.
 Vi ønsker innspill fra alle interesserte.
 
 ### Planlagte meetups
- 
+ - Kom med forslag på [issues](https://github.com/BartJS/meetups/issues/)!
 
 ### Avholdte meetups
  - [Mai 2014](https://github.com/BartJS/meetups/issues/6)
