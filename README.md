@@ -6,8 +6,7 @@ Bruker Github issues for planlegging av meetups. Et issue per meetup.
 Vi ønsker innspill fra alle interesserte.
 
 ### Planlagte meetups
- - [Nodeschool, May 25th](https://github.com/BartJS/meetups/issues/7)
-    - Workshop: [Nodeschool.io](http://nodeschool.io) with [Max Ogden](https://github.com/maxogden) and [Jessica Lord](https://github.com/jlord)
+ 
 
 ### Avholdte meetups
  - [Mai 2014](https://github.com/BartJS/meetups/issues/6)
