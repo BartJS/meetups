@@ -9,6 +9,12 @@ Vi ønsker innspill fra alle interesserte.
  - Kom med forslag på [issues](https://github.com/BartJS/meetups/issues/)!
 
 ### Avholdte meetups
+ - [Oktober, 2014](https://github.com/BartJS/meetups/issues/10)
+    - Esoteric Language v/[Arne Martin Aurlien](https://github.com/arnemart/) -
+[[slides and code](https://github.com/arnemart/jsconf2k14)]
+    - Continuous integration v/[Eirik Morland](https://github.com/eiriksm/) -
+[[slides (animated gifs](eiriksm.github.io/turnt-bugfixes)]  [[code](https://github.com/eiriksm/turnt-bugfixes)]
+ 
  - [Nodeschool, May 25th](https://github.com/BartJS/meetups/issues/7)
     - Workshop: [Nodeschool.io](http://nodeschool.io) with [Max Ogden](https://github.com/maxogden) and [Jessica Lord](https://github.com/jlord)
 
